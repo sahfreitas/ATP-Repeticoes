@@ -1,0 +1,14 @@
+C:\Users\1442428\Downloads\ATP-Repeticao\obj\Debug\net9.0\ATP-Repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1442428\Downloads\ATP-Repeticao\obj\Debug\net9.0\ATP-Repeticao.AssemblyInfoInputs.cache
+C:\Users\1442428\Downloads\ATP-Repeticao\obj\Debug\net9.0\ATP-Repeticao.AssemblyInfo.cs
+C:\Users\1442428\Downloads\ATP-Repeticao\obj\Debug\net9.0\ATP-Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\1442428\Downloads\ATP-Repeticao\bin\Debug\net9.0\ATP-Repeticao.exe
+C:\Users\1442428\Downloads\ATP-Repeticao\bin\Debug\net9.0\ATP-Repeticao.deps.json
+C:\Users\1442428\Downloads\ATP-Repeticao\bin\Debug\net9.0\ATP-Repeticao.runtimeconfig.json
+C:\Users\1442428\Downloads\ATP-Repeticao\bin\Debug\net9.0\ATP-Repeticao.dll
+C:\Users\1442428\Downloads\ATP-Repeticao\bin\Debug\net9.0\ATP-Repeticao.pdb
+C:\Users\1442428\Downloads\ATP-Repeticao\obj\Debug\net9.0\ATP-Repeticao.dll
+C:\Users\1442428\Downloads\ATP-Repeticao\obj\Debug\net9.0\refint\ATP-Repeticao.dll
+C:\Users\1442428\Downloads\ATP-Repeticao\obj\Debug\net9.0\ATP-Repeticao.pdb
+C:\Users\1442428\Downloads\ATP-Repeticao\obj\Debug\net9.0\ATP-Repeticao.genruntimeconfig.cache
+C:\Users\1442428\Downloads\ATP-Repeticao\obj\Debug\net9.0\ref\ATP-Repeticao.dll
