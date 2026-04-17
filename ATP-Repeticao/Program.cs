@@ -48,16 +48,16 @@ filhos de cada habitante. A prefeitura deseja saber:
 salário negativo.
 */
 
-double somaSalario = 0, salario = 0, somaFilhos = 0, maiorSalario = 0, 
-mediaSalario, salarioacima, mediaFilhos, percentual = 0; 
+double somaSalario = 0, salario = 0, somaFilhos = 0, maiorSalario = 0,
+mediaSalario, salarioacima = 0, mediaFilhos, percentual = 0;
 int filho = 0, habitantesTotal = 0, salariobaixo = 0;
 
 while (filho >= 0 && salario >= 0){
     Console.WriteLine("Digite o filho: ");
-    filho = double.Parse(Console.ReadLine());
+    filho = int.Parse(Console.ReadLine());
     Console.WriteLine("Digite o salario: ");
     salario = double.Parse(Console.ReadLine());
-    if (filho > 0 ) {
+    if (filho >= 0 ) {
         habitantesTotal++; 
         somaFilhos += filho;
     }
